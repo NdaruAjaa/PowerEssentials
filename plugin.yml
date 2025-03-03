@@ -75,6 +75,10 @@ permissions:
     default: op
   poweressentials.vanish.see:
     default: op
+  poweressentials.mute:
+    default: op
+  poweressentials.unmute:
+    default: op
   poweressentials.randomteleport:
     default: true
   poweressentials.size:
