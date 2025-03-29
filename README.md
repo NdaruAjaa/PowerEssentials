@@ -53,7 +53,7 @@
 | `/tpall [player]`                                                    | Teleport all players to a target player.                                           | ✅     |
 | `/worldprotect <type> <value> [world]`                               | Protect worlds with various settings (place, PvP, hunger, etc.).                   | ✅     |
 | `/mute <player> <time: 10m> [reason]`, `/unmute [player]`                                         | Mute Player.                                                                       | ✅     |
-| `/tempban <player> <time: 10m> [reason]`                             | Banned players with time.                                                          | ⌛     |
+| `/tempban <player> <time: 10m> [reason]`                             | Banned players with time.                                                          | ✅     |
 | `/bancommand <command> [world]`                                      | Banned command on specific world.                                                  | ⌛     |
 | `/lightning [player]`                                                | Send lightning.                                                                    | ⌛     |
 | `/staffchat`                                                         | Entering staff chat mode.                                                          | ⌛     |
@@ -73,6 +73,12 @@
 1. Download the latest release from the [releases page](https://github.com/PowerEssentials/PowerEssentials/releases).
 2. Place the `PowerEssentials.phar` file into your server's `plugins` folder.
 3. Restart your server.
+
+### For Nukkit
+If you use Nukkit, you can download it from the following link: [releases page](https://github.com/PowerEssentials/PowerEssentials-Nukkit/releases).
+
+### Download For Bukkit/Spigot/Paper
+If you use Bukkit/Spigot/Paper, you can download it from the following link: [releases page](https://github.com/PowerEssentials/PowerEssentials-Bukkit/releases).
 
 ---
 

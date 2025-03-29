@@ -111,3 +111,7 @@ permissions:
     default: op
   poweressentials.kickall:
     default: op
+  poweressentials.mute:
+    default: op
+  poweressentials.tempban:
+    default: op
